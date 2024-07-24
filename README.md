@@ -28,7 +28,7 @@ The CSV file contains the following columns:
 - **iso3c_dest**: ISO 3166-1 alpha-3 code of the destination country.
 - **iso_name_dest**: Name of the destination country.
 - **country_dest**: Common name of the destination country.
-- **visa_type**: Type of visa requirements (e.g., visa_required, evisa). Requirements are classified according to the types adopted by the [Global Passport Index](https://www.globalcitizensolutions.com/passport-index/)
+- **visa_type**: Type of visa requirements (e.g., visa_required, evisa). Requirements are classified according to the types adopted by the [Global Passport Index](https://www.globalcitizensolutions.com/passport-index/).
 - **visa_requirement**: Description of the visa requirement from the source Wikipedia pages.
 - **allowed_stay**: Allowed duration of stay in the destination country (if specified).
 - **notes**: Additional notes or special conditions regarding the visa requirement from the source Wikipedia pages.
@@ -74,7 +74,7 @@ head(df)
 
 ## Source
 
-The data is sourced from the Wikipedia pages under the Visa requirements by nationality Category: [Category:Visa requirements by nationality](https://en.wikipedia.org/wiki/Category:Visa_requirements_by_nationality).
+The data is sourced from the Wikipedia pages under the visa requirements by nationality category: [Category:Visa requirements by nationality](https://en.wikipedia.org/wiki/Category:Visa_requirements_by_nationality).
 
 ## License
 
