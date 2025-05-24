@@ -2,7 +2,7 @@
 
 This repository contains a CSV file with visa requirements data for citizens from various countries traveling to different destinations. The data is sourced from Wikipedia and provides details on the type of visa required, allowed stay, and other relevant information. It is sourced from
 
-> Wikipedia contributors. (2024). Category: Visa requirements by nationality. Retrieved Date: see last_update field in file, from https://en.wikipedia.org/wiki/Category:Visa_requirements_by_nationality
+> Wikipedia contributors. (2025). Category: Visa requirements by nationality. Retrieved Date: see last_update field in file, from https://en.wikipedia.org/wiki/Category:Visa_requirements_by_nationality
 
 The reporsitory includes data refering to countries, territories and areas that issue passports, including disputed areas. The use of the term `country` is done only in the sake of simplicity and style and does not mean those referred to are all internationally recognized states. 
 
