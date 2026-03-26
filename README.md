@@ -17,7 +17,7 @@ The reporsitory includes data refering to countries, territories and areas that 
 
 ## File Description
 
-The primary file in this repository is `mobility_data.csv`. It contains detailed information about the visa requirements for citizens from various countries traveling to different destinations.
+The primary file in this repository is `110_git_output.csv`. It contains detailed information about the visa requirements for citizens from various countries traveling to different destinations.
 
 ## Data Fields
 
